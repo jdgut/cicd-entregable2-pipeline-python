@@ -1,3 +1,5 @@
+.token_sonarqube
+.token_docker_hub
 # virtual envs
 venv/
 env/
@@ -21,3 +23,4 @@ acceptance_coverage.xml
 
 # IDE
 .vscode/
+
